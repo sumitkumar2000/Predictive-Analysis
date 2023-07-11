@@ -1,0 +1,11 @@
+user_id,age,gender,interests,scaape_viewed,scaape_joined,map_viewed,profile_viewed
+1,25,Male,Sports,1000,50,80,9
+2,30,Female,Music,500,30,80,9
+3,35,Male,Food,2000,100,80,9
+4,20,Female,Art,250,15,80,9
+5,27,Male,Travel,1500,70,80,9
+6,22,Female,Fashion,800,40,80,9
+7,28,Male,Technology,1200,60,80,9
+8,33,Female,Health,1800,90,80,9
+9,29,Male,Photography,900,45,80,9
+10,26,Female,Beauty,700,35,80,9

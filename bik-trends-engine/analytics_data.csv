@@ -1,0 +1,5 @@
+user_id,age,gender,location,scaape_viewed,scaapes_joined,maps_viewed
+123,28,Male,New York,100.50,25,0.10
+456,35,Female,Chicago,75.20,18,0.12
+789,42,Male,San Francisco,50.00,15,0.08
+101,30,Female,Boston,120.75,30,0.15
